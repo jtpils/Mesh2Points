@@ -1,0 +1,12 @@
+# Build results
+[Bb]uild/
+
+# JetBrains Rider
+.idea/
+
+# Data
+points_data/
+
+# cpu python code
+farthest_point_sampling-cpu.py
+
